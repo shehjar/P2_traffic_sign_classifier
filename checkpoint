@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Self_driving_Car\\Project2_Traffic_sign_classifier\\CarND-Traffic-Sign-Classifier-Project\\lenet"
+all_model_checkpoint_paths: "D:\\Self_driving_Car\\Project2_Traffic_sign_classifier\\CarND-Traffic-Sign-Classifier-Project\\lenet"
